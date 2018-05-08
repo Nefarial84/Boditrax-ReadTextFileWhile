@@ -1,0 +1,7 @@
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\bin\Debug\ReadTeaxtFileWhile.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\obj\Debug\ReadTeaxtFileWhile.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\bin\Debug\Values.txt
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\bin\Debug\ReadTeaxtFileWhile.exe
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\bin\Debug\ReadTeaxtFileWhile.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\obj\Debug\ReadTeaxtFileWhile.exe
+c:\users\andrew\documents\visual studio 2015\Projects\ReadTeaxtFileWhile\ReadTeaxtFileWhile\obj\Debug\ReadTeaxtFileWhile.pdb
